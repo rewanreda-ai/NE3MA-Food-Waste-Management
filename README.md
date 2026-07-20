@@ -1,9 +1,10 @@
 # NE3MA-Food-Waste-Management AI-powered food waste management system 
-Problem
+Problem:
 
 Large amounts of edible food are wasted daily in restaurants, hotels, university dormitories, and schools. Much of this food remains safe for consumption but is discarded due to the lack of an efficient decision-making system for redistribution and recycling.
 
-Solution
+Solution:
+
 NE3MA is an AI-powered food waste management platform that helps organizations reduce food waste by automatically identifying food items and recommending the most sustainable recycling pathway.
 
 The system combines Computer Vision, Machine Learning, and a mobile application to classify food and determine the best destination for it, including:
@@ -14,13 +15,15 @@ Biogas Production
 
 This approach minimizes waste and supports sustainability goals.
 
-System Architecture
+System Architecture:
+
 User uploads a food image through the mobile application.
 A computer vision model identifies the food type.
 Additional information is collected:
 Storage condition (Room Temperature / Refrigerated)
 Price
 Number of Guests
+
 Machine Learning model predicts the optimal recycling category:
 Repack for Human Consumption
 Donation
@@ -28,7 +31,8 @@ Animal Feed
 Biogas
 The application automatically routes the food to the appropriate destination.
 
-Technologies Used
+Technologies Used:
+
 Machine Learning
 Python
 Scikit-Learn
