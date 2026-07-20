@@ -1,5 +1,6 @@
 # NE3MA-Food-Waste-Management AI-powered food waste management system 
 Problem
+
 Large amounts of edible food are wasted daily in restaurants, hotels, university dormitories, and schools. Much of this food remains safe for consumption but is discarded due to the lack of an efficient decision-making system for redistribution and recycling.
 
 Solution
